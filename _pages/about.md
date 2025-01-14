@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Phone Number: (813) 957-6827 Email: rdattafl@gmail.com
+subtitle: Phone Number - (813) 957-6827 Email - rdattafl@gmail.com
 
 profile:
   align: right
