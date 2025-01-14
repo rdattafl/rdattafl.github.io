@@ -6,7 +6,7 @@ subtitle: Phone Number - (813) 957-6827 Email - rdattafl@gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_2171.PNG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Philadelphia, PA 19104</p>
