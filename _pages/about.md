@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Phone Number: (813) 957-6827 Email: rdattafl@gmail.com
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Philadelphia, PA 19104</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+Hi! My name's Riju, and I'm an Accelerated Master's graduate from the University of Pennsylvania, with an MSE in Robotics, a BSE in Computer Science, and a minor in Statistics. I'm highly passionate about fields like artificial intelligence, general-purpose robotics, robot learning, and embodied AI. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
