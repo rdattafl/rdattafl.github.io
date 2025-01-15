@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Riju Datta",
+    "label": "CS + ROBO + STAT @ Penn",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dattarij@alumni.upenn.edu",
+    "phone": "(813) 957-6827",
+    "url": "https://rdattafl.github.io/",
+    "summary": "A recent UPenn graduate, passionate about the intersection of AI and robotics",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "5o1",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
@@ -47,13 +47,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "area": "Robotics",
+      "studyType": "Master's",
+      "startDate": "2023-08-01",
+      "endDate": "2024-12-7",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
@@ -151,29 +151,33 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Bengali",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Robot Learning",
+        "General-Purpose Robotics",
+        "Robotic Foundation Models"
       ]
+    },
+    {
+        "name" I ad to
     }
+    
   ],
   "references": [
     {
@@ -189,12 +193,38 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Incorporating Language Distillation into Theia",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Robot Foundation Models", "Robot Learning"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Evaluating Pre-trained Representations for Embodied AI Tasks",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Fine-tuning the CogACT model for multi-object manipulation",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Lux AI Season 3 Kaggle Competition (NeurIPS 2024)",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
+    
+    
   ]
 }
