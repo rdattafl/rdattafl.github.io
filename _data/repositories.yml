@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - rdattafl/ese-6500-final-project
-  - rdattafl/cis-471-work
+  - rdattafl/ese6500-final-project
+  - rdattafl/cis471-work
   - rdattafl/SNP-Data-Analysis-Project
   - rdattafl/AutoMLPipe-MC
