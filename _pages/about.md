@@ -26,6 +26,6 @@ At my core, I’m motivated by a genuine curiosity and the drive to make meaning
 ### Let’s Connect:
 - [GitHub](https://github.com/rdattafl)
 - [LinkedIn](https://linkedin.com/in/riju-datta-2b093117a/)
-- [Portfolio Projects](#projects)
+- [Portfolio Projects](/projects)
 
 Thanks for stopping by, and feel free to check out [my blog](/blog) for insights on robotics, AI, and everything in between!
