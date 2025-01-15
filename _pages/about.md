@@ -6,7 +6,7 @@ subtitle: Bridging Robotics, AI, and Innovation | UPenn Graduate
 
 profile:
   align: right
-  image: IMG_2171.PNG
+  image: website-headshot.png
   image_circular: false # crops the image to make it circular
   more_info:
 
